@@ -1,14 +1,16 @@
-These are few of the careers i know in tech will be updating every week
-CEH (certified ethical hacker) :
-PYTHONCertified Ethical Hacker (CEH) is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems, using the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system. This knowledge is assessed by answering multiple choice questions regarding various ethical hacking techniques and tools. The code for the CEH exam is 312-50. This certification has now been made a baseline with a progression to the CEH (Practical), launched in March 2018, a test of penetration testing skills in a lab environment where the candidate must demonstrate the ability to apply techniques and use penetration testing tools to compromise various simulated systems within a virtual environment.
+## These are few of the careers i know in tech will be updating every week
 
-Ethical hackers are employed by organizations to penetrate networks and computer systems with the purpose of finding and fixing security vulnerabilities. The EC-Council offers another certification, known as Certified Network Defense Architect (CNDA). This certification is designed for United States Government agencies and is available only to members of selected agencies including some private government contractors, primarily in compliance to DOD Directive 8570.01-M.[1] It is also ANSI accredited and is recognized as a GCHQ Certified Training (GCT).
+
+# CEH (certified ethical hacker) :
+Certified Ethical Hacker (CEH) is a qualification obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in target systems, using the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system. This knowledge is assessed by answering multiple choice questions regarding various ethical hacking techniques and tools. The code for the CEH exam is 312-50. This certification has now been made a baseline with a progression to the CEH (Practical), launched in March 2018, a test of penetration testing skills in a lab environment where the candidate must demonstrate the ability to apply techniques and use penetration testing tools to compromise various simulated systems within a virtual environment.
+
+# Ethical hackers are employed by organizations to penetrate networks and computer systems with the purpose of finding and fixing security vulnerabilities. The EC-Council offers another certification, known as Certified Network Defense Architect (CNDA). This certification is designed for United States Government agencies and is available only to members of selected agencies including some private government contractors, primarily in compliance to DOD Directive 8570.01-M.[1] It is also ANSI accredited and is recognized as a GCHQ Certified Training (GCT).
 GO
 C#
 
 most of this languages are opt but they are a plus and advantge in job searches
 
-most of the courses links are:
+# most of the courses links are:
 https://drive.google.com/file/d/13WLJPVcbP-1jHEjAaGsJCvPrQxoXn3ea/view
 https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 https://www.eccouncil.org/programs/certified-ethical-hacker-ceh-master/
@@ -19,7 +21,7 @@ https://www.youtube.com/watch?v=dz7Ntp7KQGA
 
 
 
-Database Admin:A database administrator (DBA) is the information technician responsible for directing or performing all activities related to maintaining a successful database environment. 
+# Database Admin:A database administrator (DBA) is the information technician responsible for directing or performing all activities related to maintaining a successful database environment. 
 A DBA makes sure an organization's database and its related applications operate functionally and efficiently.
 Technologies  involved:
 SQL
@@ -29,16 +31,16 @@ CASSANDRA
 MARIADB
 PHP
 
-most courses links are:
+# most courses links are:
 https://www.youtube.com/watch?v=e2oj-xgpiH0
 https://www.youtube.com/watch?v=V9VxucL7hb4&list=PL3iAEby0Vzb5_KuWmHjKy60UZIgMcyvqK
 https://www.classcentral.com/subject/databases
 https://www.coursera.org/specializations/databases-for-data-scientists
 
 
-UI/UX Designer:
+# UI/UX Designer:
 UI UX designers create the user interface for an app, website, or other interactive media. Their work includes collaborating with product managers and engineers to gather requirements from users before designing ideas that can be communicated using storyboards. They also process flows or sitemaps.
-Tools:
+# Tools:
 Sketch
 axure
 Figma
@@ -49,7 +51,7 @@ Marvel
 Oriagmi studio
 Wireframe.cc
 
-Courses:
+# Courses:
 https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiy9aWRmIP5AhVikGgJHfx-DnEYABAEGgJ3Zg&ae=2&ohost=www.google.com&cid=CAESbOD2LEiz5NM0QhBhlK0Vx05aA447f2-15W0P4PXnqCCVVfvepgQjow17j-SfxhV7nQH4c75UbaZyRl_K9zVWbKrkNqoDMr9kJnH8kkH-9h38_db4pEXwklqxCx2WtY8ptBBjwvw57SKzWhQ72w&sig=AOD64_3dL-gUQRDiMbH_0iwldgru7H81tw&q&adurl&ved=2ahUKEwi0vp6RmIP5AhWNtqQKHWkDBoIQ0Qx6BAgDEAE
 https://www.udemy.com/share/1013e0/
 https://www.coursera.org/specializations/ui-ux-design
@@ -57,9 +59,10 @@ https://www.youtube.com/watch?v=c9Wg6Cb_YlU
 https://www.youtube.com/watch?v=GAoFiHKO3WY
 https://www.youtube.com/watch?v=jwCmIBJ8Jtc
 
-Product Manager
+# Product Manager
 A product manager is the person who identifies the customer need and the larger business objectives that a product or feature will fulfill, articulates what success looks like for a product, and rallies a team to turn that vision into a reality.
-Tech used
+
+# Tech used
 Customer survey tools (such as SurveyMonkey or Typeform)
  Roadmapping software (such as ProductPlan)
  Recording apps for customer interviews (such as GoToMeeting or Zoom)
@@ -225,3 +228,21 @@ https://www.simplilearn.com/tutorials/blockchain-tutorial/how-to-become-a-blockc
 https://hackr.io/blog/best-blockchain-courses
 https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 https://alison.com/course/diploma-in-blockchain-technology-and-applications
+
+
+QA enigneer 
+A Quality Assurance (QA) Engineer is someone who tests software products throughout the whole development process. They ensure that the product meets high quality standards before releasing it to the public.
+
+Tools
+Automation Tools - Jenkins, Selenium, Cucumber, Java
+Test Repository & Defect Management - JIRA
+Document Repository - SharePoint
+ Communication - Slack, Microsoft Teams, Yammer
+ Project/Sprint Planning - Jira
+ Project Strategy - Microsoft Word
+ 
+ Courses
+ https://www.udemy.com/topic/quality-assurance/
+ https://www.coursera.org/courses?query=quality%20assurance
+ https://youtu.be/hIhRATTgV10
+
