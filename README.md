@@ -295,3 +295,21 @@ Document Repository - SharePoint
  https://www.coursera.org/courses?query=quality%20assurance
  
  https://youtu.be/hIhRATTgV10
+ 
+ # IT suport engineer
+ 
+The IT Support maintains the computer networks of all types of organisations, providing technical support and ensuring the whole company runs smoothly. IT Support monitors and maintains the company computer systems, installs, and configures hardware and software, and solves technical issues as they arise. Because of the nature of the job, some companies may require their IT Support to undertake shift work.
+
+# Tools
+1. VIRTUALBOX
+2. ULTIMATE BOOTCD
+3. GEDIT OR NOTEPAD++
+4. BUGZILLA
+5. OSTICKET
+6. MICROSOFT RDCMAN
+7. WIKI
+
+## Courses
+https://www.edx.org/learn/it-support
+https://www.youtube.com/watch?v=xZBEgr3CGQA
+
