@@ -313,4 +313,34 @@ The IT Support maintains the computer networks of all types of organisations, pr
 https://www.edx.org/learn/it-support
 https://www.youtube.com/watch?v=xZBEgr3CGQA
 
-#I'm back
+# Site reliabitiy Engineer(SRE)
+ responsible for ensuring that the underlying infrastructure is running smoothly and that systems and tools are working as expected.
+ Site reliability engineers sit at the crossroads of traditional IT and software development. Basically, SRE teams are made up of software engineers who build and implement software to improve the reliability of their systems.
+ 
+ # Tools
+ 1.Lightrun
+ 
+ 2.Datadog
+ 
+ 3.New relic
+ 
+ 4.Grafana
+ 
+ 5.PagerDuty
+ 
+ 6.Honeycomb
+ 
+ 7.Ansible
+ 
+ 8.Terraform
+ 
+ 9.Saltstack
+ 
+ ##  Courses
+ https://www.edx.org/professional-certificate/ibm-site-reliability-engineering
+ 
+ https://www.coursera.org/lecture/site-reliability-engineering-slos/reliability-in-the-cloud-4Zdkg
+ 
+ https://www.youtube.com/watch?v=OnX45XBbc4I&ab_channel=Datadog
+ 
+ https://www.youtube.com/live/eopc_ijIfLg?feature=share
